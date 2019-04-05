@@ -8,4 +8,4 @@ image: /images/rio_terese.jpg
 author_staff_member:
 ---
 
-The preliminary program of the conference has been updated. See the [program page](/program.html) for more information.
+The preliminary program of the conference has been updated; see the [program page](/program.html) for more information. On the same page will be uploaded updated versions of the program.
